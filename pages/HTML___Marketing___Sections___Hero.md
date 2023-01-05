@@ -13,5 +13,5 @@ Following this advice will increase conversion rates.
 	- Included your target audience in the the header or sub-header.
 	- Avoid using off the page links unless it's part of the funnel.
 	- *Don’t overthink it. Make it clear and as simple as possible.*
--
+- [[Hero Tailwindcss]]
 - [[Home]]
