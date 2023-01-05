@@ -1,5 +1,5 @@
-- [[Start Here]]
+- 👌 The first impression is very important not only on a date but also on your landing page. You have to use the right content (words, images, videos) to catch your visitor’s attention.
+  - Each visitor is asking this question when they came to your website : **What is this page about?**
 -
 -
--
--
+- [[Home]]
