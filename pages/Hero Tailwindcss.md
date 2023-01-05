@@ -1,9 +1,5 @@
 - ![hero-tailwindcss.jpeg](../assets/hero-tailwindcss_1672934402383_0.jpeg)
 - ▶️ [Tailwind Play](https://play.tailwindcss.com/hO2rq6g7TG)
-- ```
-  ```
--
--
 - ```html
   <header class="relative">
     <div class="px-4 sm:px-6 md:px-8">
