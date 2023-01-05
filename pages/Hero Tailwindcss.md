@@ -1,2 +1,3 @@
 - ![hero-tailwindcss.jpeg](../assets/hero-tailwindcss_1672934402383_0.jpeg)
+- ![Tailwind Play](https://play.tailwindcss.com/hO2rq6g7TG)
 -
